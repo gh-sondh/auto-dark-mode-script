@@ -11,4 +11,4 @@ Userscripts to add functionality auto turn on dark mode for [Tinhte](https://tin
 
 2. Get information or install:
 	* Install a script directly from GitHub by download script [here](https://github.com/gh-sondh/auto-dark-mode-script) and import to your userscript manager.
-	* Install a script from [GreasyFork](https://greasyfork.org/)
+	* Install a script from [GreasyFork](https://greasyfork.org/scripts/443080-auto-dark-mode)
