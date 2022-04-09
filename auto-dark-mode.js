@@ -7,13 +7,9 @@
 // @grant       none
 // @match       *://tinhte.vn/*
 // @match       *://*.facebook.com/*
-// @version     1.1
+// @version     1.0
 // @homepage    https://github.com/gh-sondh/auto-dark-mode-script
 // @supportURL  https://github.com/gh-sondh/auto-dark-mode-script/issues
-// @grant       GM_listValues
-// @grant       GM_addStyle
-// @grant       GM_setValue
-// @grant       GM_getValue
 // @run-at      document-end
 // ==/UserScript==
 
