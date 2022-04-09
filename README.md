@@ -10,5 +10,5 @@ Userscripts to add functionality auto turn on dark mode for [Tinhte](https://tin
 	* [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
 
 2. Get information or install:
-	* Install a script directly from GitHub by download script [here](https://github.com/gh-sondh/auto-dark-mode-script) and import to your userscript manager.
+	* Install a script directly from GitHub by download script [here](https://raw.githubusercontent.com/gh-sondh/auto-dark-mode-script/release/auto-dark-mode.js) and import to your userscript manager.
 	* Install a script from [GreasyFork](https://greasyfork.org/scripts/443080-auto-dark-mode)
