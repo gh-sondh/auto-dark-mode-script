@@ -6,7 +6,7 @@
 // @description:vi Script tự động bật chế độ tối cho Tinhte và Facebook
 // @grant       none
 // @match       *://tinhte.vn/*
-// @match       *://*.facebook.com/*
+// @match       *://www.facebook.com/*
 // @version     1.0.1
 // @homepage    https://github.com/gh-sondh/auto-dark-mode-script
 // @supportURL  https://github.com/gh-sondh/auto-dark-mode-script/issues
