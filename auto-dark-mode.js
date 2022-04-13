@@ -7,7 +7,7 @@
 // @grant       none
 // @match       *://tinhte.vn/*
 // @match       *://www.facebook.com/*
-// @version     1.0.1
+// @version     1.0.2
 // @homepage    https://github.com/gh-sondh/auto-dark-mode-script
 // @supportURL  https://github.com/gh-sondh/auto-dark-mode-script/issues
 // @run-at      document-idle
